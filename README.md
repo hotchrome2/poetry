@@ -1,4 +1,5 @@
 # poetry on Windows11
+## decibel
 
 py -0
 
@@ -21,6 +22,8 @@ poetry run python --version
 
 poetry show
 
+## artificial
+
 poetry new artificial
 
 cd .\artificial\
@@ -42,7 +45,7 @@ poetry run python --version
 poetry show
 
 ---
-# Good
+## Good add
 
 poetry add numpy pandas seaborn tqdm jupyterlab matplotlib scikit-learn lightgbm
 
