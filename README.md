@@ -14,11 +14,11 @@ poetry env use C:\Users\admini7\AppData\Local\Programs\Python\Python311\python.e
 
 poetry run python --version
 
-poetry add pandas seaborn jupyterlab matplotlib lckr_jupyterlab_variableinspector jupyterlab_code_formatter
+# poetry add pandas seaborn jupyterlab matplotlib lckr_jupyterlab_variableinspector jupyterlab_code_formatter
 
-poetry add --group dev pytest pytest-mock mypy black isort icecream
+# poetry add --group dev pytest pytest-mock mypy black isort icecream
 
-poetry add lightgbm
+# poetry add lightgbm
 
 poetry show
 
@@ -34,12 +34,19 @@ poetry env use C:\Users\admini7\AppData\Local\Programs\Python\Python313\python.e
 
 poetry run python --version
 
-poetry add pandas seaborn jupyterlab matplotlib lckr_jupyterlab_variableinspector jupyterlab_code_formatter scikit-learn
+# poetry add pandas seaborn jupyterlab matplotlib lckr_jupyterlab_variableinspector jupyterlab_code_formatter scikit-learn
 
-poetry add --group dev pytest pytest-mock mypy black isort icecream
+# poetry add --group dev pytest pytest-mock mypy black isort icecream
 
-poetry add lightgbm
+# poetry add lightgbm
 
-poetry add tqdm
+# poetry add tqdm
 
 poetry show
+
+---
+
+poetry add numpy pandas seaborn tqdm jupyterlab matplotlib scikit-learn lightgbm
+
+poetry add --group dev pytest pytest-mock mypy black isort icecream lckr_jupyterlab_variableinspector jupyterlab_code_formatter
+
