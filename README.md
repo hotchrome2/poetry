@@ -71,3 +71,9 @@ params = {
     "max_bin": 100,  # 一つの分岐に入るデータ数の最大値
 }
 ```
+
+## LSTM
+https://www.kaggle.com/code/imegirin/multivariate-time-series-modeling-with-pytorch/notebook
+
+https://charlieoneill.medium.com/predicting-the-price-of-bitcoin-with-multivariate-pytorch-lstms-695bc294130
+
