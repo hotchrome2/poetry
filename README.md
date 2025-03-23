@@ -77,3 +77,5 @@ https://www.kaggle.com/code/imegirin/multivariate-time-series-modeling-with-pyto
 
 https://charlieoneill.medium.com/predicting-the-price-of-bitcoin-with-multivariate-pytorch-lstms-695bc294130
 
+https://www.kaggle.com/learn/time-series
+
